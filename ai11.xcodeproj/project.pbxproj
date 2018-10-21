@@ -79,7 +79,6 @@
 		2EAED302217C6DDF003862F8 = {
 			isa = PBXGroup;
 			children = (
-				2EAED33E217C6E8E003862F8 /* MainViewController.swift */,
 				2EAED30D217C6DDF003862F8 /* ai11 */,
 				2EAED322217C6DE1003862F8 /* ai11Tests */,
 				2EAED32D217C6DE1003862F8 /* ai11UITests */,
@@ -102,6 +101,7 @@
 			children = (
 				2EAED30E217C6DDF003862F8 /* AppDelegate.swift */,
 				2EAED310217C6DDF003862F8 /* ViewController.swift */,
+				2EAED33E217C6E8E003862F8 /* MainViewController.swift */,
 				2EAED312217C6DDF003862F8 /* Main.storyboard */,
 				2EAED315217C6DE1003862F8 /* Assets.xcassets */,
 				2EAED317217C6DE1003862F8 /* LaunchScreen.storyboard */,
